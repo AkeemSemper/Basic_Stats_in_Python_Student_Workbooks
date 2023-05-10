@@ -7,6 +7,7 @@ Things I need students to be capable of for the ML class:
   <li> Pipelines, imputation, encoding in sklearn. </li>
   <li> Moving average based time series, with an introduction of trend, cyclicality, stationary. </li>
   <li> Basic understanding of gradient descent. This is important.</li>
+  <li> Within the gradient descent part, an idea of loss and cost. </li>
  </ul>
  
  In general, if the students are able, go faster and I will just progress more when they get to the ML class. They need to be comfortable with sklearn pipelines with some data prep, at a minimum, to be able to pick up and work in the ML class. 
