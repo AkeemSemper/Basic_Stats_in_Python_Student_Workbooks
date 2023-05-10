@@ -131,3 +131,7 @@ dmypy.json
 # ._
 .*
 !/.gitignore
+
+# Student Work
+/student_work
+things_I_need_for_ML.md
