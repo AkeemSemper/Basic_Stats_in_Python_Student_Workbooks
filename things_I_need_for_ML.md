@@ -1,6 +1,6 @@
 Things I need students to be capable of for the ML class:
 <ul>
-  <li> Understand errors and accuracy (RMSE, R2, Accuracy, Confusion Matrix...</li>
+  <li> Understand errors and accuracy (RMSE, R2, Accuracy, Confusion Matrix...) and the idea of evaluating models. </li>
   <li> Sampling, estimation, and hypothesis testing. Especially the idea of building trials to run experiments. </li>
   <li> Make Bayes classifier from scratch. </li>
   <li> Linear and logistic regression in sklearn. </li>
