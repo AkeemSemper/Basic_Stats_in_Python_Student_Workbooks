@@ -59,6 +59,9 @@ jobs:
           cp -r Basic_Stats_in_Python_Full_Repo/images/* images
 
           # Data
+          rm -rf data
+          mkdir data
+          cp -r Basic_Stats_in_Python_Full_Repo/data/* data
 
           # Resources
           rm -rf reference_material
