@@ -66,8 +66,8 @@ jobs:
           cp -r Basic_Stats_in_Python_Full_Repo/reference_material/* reference_material
 
           ## Supplementary Practice Workbooks
-          rm -rf supplementary_practice_workbooks
-          mkdir supplementary_practice_workbooks
+          rm -rf supplementary_workbooks
+          mkdir supplementary_workbooks
           cp -r Basic_Stats_in_Python_Full_Repo/supplementary_workbooks/*.ipynb supplementary_workbooks
 
           # Clear
